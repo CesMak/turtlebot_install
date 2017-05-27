@@ -89,14 +89,10 @@ export ROSWSS_SCRIPTS=$ROSWSS_ROOT/src/workspace_scripts/scripts
 echo
 
 cat << EOF
-Try to source your workspace -
 Do: source setup.bash
+Do: add to your .bashrc file 
 EOF
 source setup.bash
-
-cat << EOF
-Add line to your .bashrc file:
-EOF
 echo "source $ROSWSS_ROOT/setup.bash" >> ~/.bashrc
 
 # Initialization successful. Print message and exit.

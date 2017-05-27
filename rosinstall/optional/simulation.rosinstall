@@ -1,2 +1,6 @@
-# Common Turtlebot
+# Simulation package: 
+# execute turtle install simulation and the following source is installed:
 
+#install the turtleobt_simulator files
+#no description files are included! 
+- git: {local-name: src/turtlebot/turtlebot_scripts, uri: 'https://github.com/turtlebot/turtlebot_simulator.git', version: indigo}
