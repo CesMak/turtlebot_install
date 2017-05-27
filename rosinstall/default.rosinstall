@@ -1,0 +1,6 @@
+# System
+- git: {local-name: src/workspace_scripts, uri: 'https://github.com/tu-darmstadt-ros-pkg/workspace_scripts.git', version: master}
+- git: {local-name: src/turtlebot/turtlebot_scripts, uri: 'git@git.sim.informatik.tu-darmstadt.de:TurtleBot/turtlebot_scripts.git', version: turtlebot3}
+
+# Common Packages
+
