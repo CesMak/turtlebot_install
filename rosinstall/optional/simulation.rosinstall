@@ -3,4 +3,4 @@
 
 #install the turtleobt_simulator files
 #no description files are included! 
-- git: {local-name: src/turtlebot, uri: 'https://github.com/CesMak/turtlebot1.git', version: master}
+- git: {local-name: src/turtlebot/turtlebot1, uri: 'https://github.com/CesMak/turtlebot1.git', version: master}
