@@ -2,7 +2,7 @@
 #by Alexander Stumpf: (from github)
 - git: {local-name: src/workspace_scripts, uri: 'https://github.com/tu-darmstadt-ros-pkg/workspace_scripts.git', version: master}
 #by Markus Lamprecht (from github) 
-- git: {local-name: src/turtlebot/turtlebot_scripts, uri: 'https://github.com/CesMak/turtlebot_scripts', version: master}
+- git: {local-name: src/turtlebot/turtlebot_scripts, uri: 'https://github.com/CesMak/turtlebot_scripts.git', version: master}
 
 # Common Packages
 
