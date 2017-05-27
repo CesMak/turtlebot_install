@@ -2,8 +2,8 @@
 #by Alexander Stumpf: (from github)
 - git: {local-name: src/workspace_scripts, uri: 'https://github.com/tu-darmstadt-ros-pkg/workspace_scripts.git', version: master}
 #by Markus Lamprecht (from github) 
-#5 - git: {local-name: src/turtlebot/turtlebot_scripts, uri: 'https://github.com/CesMak/turtlebot_scripts.git', version: mast
-- git: {local-name: src/turtlebot/turtlebot_scripts, uri: 'git@git.sim.informatik.tu-darmstadt.de:TurtleBot/turtlebot_scripts.git', version: turtlebot}
+- git: {local-name: src/turtlebot/turtlebot_scripts, uri: 'https://github.com/CesMak/turtlebot_scripts.git', version: master}
+#- git: {local-name: src/turtlebot/turtlebot_scripts, uri: 'git@git.sim.informatik.tu-darmstadt.de:TurtleBot/turtlebot_scripts.git', version: turtlebot}
 
 
 
