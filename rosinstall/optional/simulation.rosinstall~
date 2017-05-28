@@ -1,6 +1,0 @@
-# Simulation package: 
-# execute turtle install simulation and the following source is installed:
-
-#install the turtleobt_simulator files
-#no description files are included! 
-- git: {local-name: src/turtlebot/simulation, uri: 'https://github.com/CesMak/turtlebot1.git', version: master}
