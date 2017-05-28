@@ -4,4 +4,4 @@
 
 #install the turtleobt_simulator files
 #no description files are included! 
-- git: {local-name: src/turtlebot/roomba_521, uri: 'https://github.com/CesMak/roomba_521.git', version: master}
+- git: {local-name: src/turtlebot, uri: 'https://github.com/CesMak/roomba_521.git', version: master}
