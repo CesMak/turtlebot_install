@@ -1,0 +1,7 @@
+# Simulation package: 
+# execute turtle install roomba_521 and the following source is installed:
+# and also do turtle update_make
+
+#install the turtleobt_simulator files
+#no description files are included! 
+- git: {local-name: src/turtlebot/turtlebot1, uri: 'https://github.com/CesMak/roomba_521.git', version: master}
