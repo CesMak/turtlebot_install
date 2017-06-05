@@ -1,4 +1,4 @@
-D 3-Clause License
+BSD 3-Clause License
 
 Copyright (c) 2017, Technische Universität Darmstadt ROS Packages
 All rights reserved.
